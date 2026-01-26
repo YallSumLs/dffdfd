@@ -2,8 +2,5 @@
   "SoftwareVersion": "1.2",
   "SoftwareUrl": "https://cdn.discordapp.com/attachments/1461536837272342551/1464935142266245164/Cryptid.rar?ex=697746ab&is=6975f52b&hm=d331fe4627da18a9fd8625eca6cc9157e57eca712079801c2b6371971f0af90e&",
   "Status": "True",
-  "Changelog": "[+] Patched basic debug.info stack detection on hooks made by hookfunction & hookmetamethod\n
-                [+] Patched stack overflow detection in newcclosure\n
-                [+] Fixed dex crashing\n
-                [+] Fixed gethiddenproperty & sethiddenproperty"
+  "Changelog": "[+] Patched basic debug.info stack detection on hooks made by hookfunction & hookmetamethod"
 }
