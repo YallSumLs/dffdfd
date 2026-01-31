@@ -1,6 +1,6 @@
 {
-  "SoftwareVersion": "1.3",
+  "SoftwareVersion": "1.4",
   "SoftwareUrl": "https://cdn.discordapp.com/attachments/1461536837272342551/1466011760661237953/Cryptid.rar?ex=697b3158&is=6979dfd8&hm=270a9d506c6f9fca9b7ae4f476e8ae750118c98d3c90f5d004379fab98ea63e3&",
-  "Status": "False",
-  "Changelog": "[+] Patched basic debug.info stack detection on hooks made by hookfunction & hookmetamethod"
+  "Status": "True",
+  "Changelog": "[+] Updated"
 }
